@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Archivo', sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+button {
+    cursor: pointer;
+    padding: 0;
+    border: none;
+    outline: none;
+    display: block;
+    background-color: transparent;
+}
+
+img {
+    width: 100%;
+    display: block;
+}
+
+html, body {
+    font-size: 62.5%;
+}
